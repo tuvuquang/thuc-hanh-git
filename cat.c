@@ -5,4 +5,6 @@ dong code thu nhat
 
 dong code thu hai
 
-day la dong code bi xung dot rebase 
+
+dong code thu ba
+
